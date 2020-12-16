@@ -1,1 +1,2 @@
 uiafytyuyadryuasttdusytuails
+ssh-keygen is used to generate the private key of the machine
